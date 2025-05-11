@@ -10,7 +10,7 @@
 ## 🚀 Demo
 
 #### 🔗 Link
-https://sudhanshu9508.github.io/Simon-Game/
+https://sudhanshu-101.github.io/Simon-Game/
 
 
 #### 📸 Screenshots
