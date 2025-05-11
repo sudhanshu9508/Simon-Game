@@ -15,7 +15,7 @@ https://sudhanshu9508.github.io/Simon-Game/
 
 #### 📸 Screenshots
 
-![App Screenshot](https://github.com/sudhanshu9508/Simon-Game/blob/446c3d69d731afa57a540e4e24a92cf2513cbe85/Simon%20Game%20Screenshort.png)
+![App Screenshot](https://github.com/sudhanshu-101/Simon-Game/blob/446c3d69d731afa57a540e4e24a92cf2513cbe85/Simon%20Game%20Screenshort.png)
 
 
 
