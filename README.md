@@ -10,12 +10,12 @@
 ## 🚀 Demo
 
 #### 🔗 Link
-https://sudhanshu-101.github.io/simon-game/
+https://sudhanshuverse.github.io/simon-game/
 
 
 #### 📸 Screenshots
 
-![App Screenshot](https://github.com/sudhanshu-101/Simon-Game/blob/446c3d69d731afa57a540e4e24a92cf2513cbe85/Simon%20Game%20Screenshort.png)
+![App Screenshot](https://github.com/sudhanshuverse/Simon-Game/blob/446c3d69d731afa57a540e4e24a92cf2513cbe85/Simon%20Game%20Screenshort.png)
 
 
 
